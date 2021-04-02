@@ -1,0 +1,1 @@
+# primeiro-bot-discord-dbd.js
