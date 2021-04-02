@@ -2,8 +2,8 @@ const dbd = require("dbd.js");
 const fs = require("fs");
 
 const bot = new dbd.Bot({ token:
- "ODI3NTI3MzY1MjMwOTg1MjU2.YGcU6g.IoPCloKlW35OQl0UlbUelLBIamY",
- prefix: 'b!'
+ "seu token",
+ prefix: 'seu prefix'
 });
 
 bot.onMessage();
